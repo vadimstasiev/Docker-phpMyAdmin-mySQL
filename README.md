@@ -4,6 +4,9 @@ To start:
 ```
 docker-compose up --build
 ```
+To close use `Ctrl` + `C` otherwise it won't save the database changes.
+
+
 To stop and remove.
 ```
 docker-compose down
